@@ -1,0 +1,47 @@
+h1, h2 {
+    text-align: center;
+    
+}
+
+section{
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    margin: 0;
+}
+
+
+h1 {
+    background: gray;
+    margin-top: 0;
+    padding: 10px;
+    margin-bottom: 1%x;
+    
+}
+
+
+ form {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    background: rgb(61, 164, 223,.3);
+    border-radius: 20px;
+}
+
+input, select {
+    width: 30%;
+    margin-bottom: 1rem;
+}
+
+button {
+    margin-top: 1rem;
+    align-self: center;
+    width: 30%;
+    margin-bottom: 2rem;
+}
+
